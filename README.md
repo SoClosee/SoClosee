@@ -30,7 +30,7 @@ Every project follows the same philosophy: **solve a real problem, ship fast, it
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🎬 **[GEN CLIP Platform](https://github.com/SoClosee/gen-clip-platform)** | AI-powered SaaS for automated video clipping & subtitle generation | Next.js · Python · FFmpeg · AI/ML |
+| 🎬 **[SoClip](https://github.com/SoClosee/gen-clip-platform)** | AI-powered SaaS for automated video clipping & subtitle generation | Next.js · Python · FFmpeg · AI/ML |
 | 🤖 **[StoryForge](https://github.com/SoClosee/storyforge)** | Autonomous YouTube video generation system — script to upload | Python · TTS · AI Agents · n8n |
 | 📊 **[PulseGuard](https://github.com/SoClosee/pulseguard)** | Real-time server monitoring dashboard with alerts | Node.js · WebSocket · React · VPS |
 
@@ -86,9 +86,8 @@ Every project follows the same philosophy: **solve a real problem, ship fast, it
 | Venture | What it does |
 |---------|-------------|
 | 🏢 **[SoClose Society](https://github.com/SoCloseSociety)** | Open-source growth hacking tools — 11 repos, Python + Selenium |
-| 🎬 **GEN CLIP Platform** | SaaS for AI-powered video clipping & subtitles |
-| 📰 **PRConfidentiel** | Premium press placement service for brands |
-| ✈️ **LuxWinAsia** | Luxury travel experience lottery platform |
+| 🎬 **SoClip** | SaaS for AI-powered video clipping & subtitles |
+| 📰 **[PRConfidentiel](https://prconfidentiel.com)** | Premium press placement service for brands |
 
 ---
 
