@@ -1,0 +1,65 @@
+<svg width="1200" height="300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0a0a;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#1a1a2e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0a0a0a;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#575ECF;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#8B5CF6;stop-opacity:1" />
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <g opacity="0.05">
+    <line x1="0" y1="0" x2="0" y2="300" stroke="white" stroke-width="1"/>
+    <line x1="60" y1="0" x2="60" y2="300" stroke="white" stroke-width="1"/>
+    <line x1="120" y1="0" x2="120" y2="300" stroke="white" stroke-width="1"/>
+    <line x1="180" y1="0" x2="180" y2="300" stroke="white" stroke-width="1"/>
+    <line x1="240" y1="0" x2="240" y2="300" stroke="white" stroke-width="1"/>
+    <line x1="300" y1="0" x2="300" y2="300" stroke="white" stroke-width="1"/>
+    <line x1="360" y1="0" x2="360" y2="300" stroke="white" stroke-width="1"/>
+    <line x1="420" y1="0" x2="420" y2="300" stroke="white" stroke-width="1"/>
+    <line x1="480" y1="0" x2="480" y2="300" stroke="white" stroke-width="1"/>
+    <line x1="540" y1="0" x2="540" y2="300" stroke="white" stroke-width="1"/>
+    <line x1="600" y1="0" x2="600" y2="300" stroke="white" stroke-width="1"/>
+    <line x1="660" y1="0" x2="660" y2="300" stroke="white" stroke-width="1"/>
+    <line x1="720" y1="0" x2="720" y2="300" stroke="white" stroke-width="1"/>
+    <line x1="780" y1="0" x2="780" y2="300" stroke="white" stroke-width="1"/>
+    <line x1="840" y1="0" x2="840" y2="300" stroke="white" stroke-width="1"/>
+    <line x1="900" y1="0" x2="900" y2="300" stroke="white" stroke-width="1"/>
+    <line x1="960" y1="0" x2="960" y2="300" stroke="white" stroke-width="1"/>
+    <line x1="1020" y1="0" x2="1020" y2="300" stroke="white" stroke-width="1"/>
+    <line x1="1080" y1="0" x2="1080" y2="300" stroke="white" stroke-width="1"/>
+    <line x1="1140" y1="0" x2="1140" y2="300" stroke="white" stroke-width="1"/>
+    <line x1="1200" y1="0" x2="1200" y2="300" stroke="white" stroke-width="1"/>
+    <line x1="0" y1="60" x2="1200" y2="60" stroke="white" stroke-width="1"/>
+    <line x1="0" y1="120" x2="1200" y2="120" stroke="white" stroke-width="1"/>
+    <line x1="0" y1="180" x2="1200" y2="180" stroke="white" stroke-width="1"/>
+    <line x1="0" y1="240" x2="1200" y2="240" stroke="white" stroke-width="1"/>
+  </g>
+  <circle cx="950" cy="80" r="120" fill="none" stroke="#575ECF" stroke-width="1" opacity="0.1"/>
+  <circle cx="1000" cy="150" r="80" fill="none" stroke="#8B5CF6" stroke-width="1" opacity="0.08"/>
+  <circle cx="200" cy="250" r="60" fill="none" stroke="#575ECF" stroke-width="1" opacity="0.06"/>
+  <rect x="100" y="198" width="60" height="3" rx="1.5" fill="url(#accent)" filter="url(#glow)"/>
+  <text x="100" y="130" font-family="'Segoe UI', Arial, sans-serif" font-size="52" font-weight="700" fill="white" letter-spacing="-1">SoClose</text>
+  <text x="100" y="175" font-family="'Segoe UI', Arial, sans-serif" font-size="20" fill="#9CA3AF" letter-spacing="4">FULL STACK DEVELOPER &amp; ENTREPRENEUR</text>
+  <text x="100" y="240" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#6B7280">Building SaaS · AI Tools · Automation Systems · Trading Tech</text>
+  <g opacity="0.15" transform="translate(820, 60)">
+    <text font-family="'Courier New', monospace" font-size="13" fill="#575ECF">
+      <tspan x="0" dy="0">const builder = {</tspan>
+      <tspan x="0" dy="20">  stack: ["Python", "React", "AI"],</tspan>
+      <tspan x="0" dy="20">  motto: "Ship fast, iterate",</tspan>
+      <tspan x="0" dy="20">  ventures: 4,</tspan>
+      <tspan x="0" dy="20">  status: "building" 🚀</tspan>
+      <tspan x="0" dy="20">};</tspan>
+    </text>
+  </g>
+</svg>
