@@ -30,7 +30,7 @@ Every project follows the same philosophy: **solve a real problem, ship fast, it
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🧠 **[MiloAgent](https://github.com/SoClosee/MiloAgent)** | **Milo — Autonomous AI agent** specialized in Reddit growth. Self-learning bot that scans conversations, generates human-like responses, and evolves his own strategy. Expanding to Twitter/X & Telegram. Zero cost. | Python · LLM (Groq/Gemini) · FastAPI · Docker |
+| 🧠 **[MiloAgent](https://github.com/SoCloseSociety/MiloAgent)** | **Milo — Autonomous AI agent** specialized in Reddit growth. Self-learning, evolves his own strategy. Expanding to Twitter/X & Telegram. Zero cost. | Python · LLM (Groq/Gemini) · FastAPI · Docker |
 | 🎬 **[SoClip](https://github.com/SoClosee/gen-clip-platform)** | AI-powered SaaS for automated video clipping & subtitle generation | Next.js · Python · FFmpeg · AI/ML |
 | 🤖 **[StoryForge](https://github.com/SoClosee/storyforge)** | Autonomous YouTube video generation system — script to upload | Python · TTS · AI Agents · n8n |
 | 📊 **[PulseGuard](https://github.com/SoClosee/pulseguard)** | Real-time server monitoring dashboard with alerts | Node.js · WebSocket · React · VPS |
