@@ -98,3 +98,50 @@ Every project follows the same philosophy: **solve a real problem, ship fast, it
 *Building the future, one commit at a time.*
 
 </div>
+
+## Installation Instructions
+
+To set up and run SoClosee, follow these steps:
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/SoClosee/SoClosee.git
+   cd SoClosee
+   ```
+
+2. **Install Dependencies:**
+   Ensure you have Python and Node.js installed, then run:
+   ```bash
+   pip install -r requirements.txt
+   npm install
+   ```
+
+3. **Configure Environment Variables:**
+   Copy the `.env.example` file to `.env` and update the necessary variables.
+   ```bash
+   cp .env.example .env
+   # Edit .env with your configuration
+   ```
+
+4. **Build Docker Containers (if applicable):**
+   If using Docker, build the containers:
+   ```bash
+   docker-compose build
+   ```
+
+5. **Run the Application:**
+   Start the application using Docker or directly from the source.
+   - Using Docker:
+     ```bash
+     docker-compose up
+     ```
+   - From Source:
+     ```bash
+     python app.py
+     npm start
+     ```
+
+6. **Access the Application:**
+   Open your browser and navigate to `http://localhost:3000` (or the appropriate port).
+
+For more detailed instructions, refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file.
