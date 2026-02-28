@@ -1,6 +1,6 @@
-<!-- PROFILE README — SoClosee/SoClosee — github.com/SoClosee -->
+# PROFILE README — SoClosee/SoClosee — github.com/SoClosee
 
-<div align="center">
+div align="center"
 
 <img src="https://raw.githubusercontent.com/SoClosee/SoClosee/main/assets/banner.svg" alt="SoClose — Full Stack Developer & Entrepreneur" width="100%">
 
@@ -40,7 +40,7 @@ Every project follows the same philosophy: **solve a real problem, ship fast, it
 
 ### 🧰 Tech Stack
 
-<div align="center">
+div align="center"
 
 **Languages**
 
@@ -98,3 +98,8 @@ Every project follows the same philosophy: **solve a real problem, ship fast, it
 *Building the future, one commit at a time.*
 
 </div>
+
+
+### Contact Information
+
+For any inquiries or support, please contact us via email at info@soclose.co or reach out on LinkedIn.
