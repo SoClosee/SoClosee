@@ -98,3 +98,7 @@ Every project follows the same philosophy: **solve a real problem, ship fast, it
 *Building the future, one commit at a time.*
 
 </div>
+
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' https://example.com; img-src 'self' data:;">
+<meta name="X-Frame-Options" content="SAMEORIGIN">
+<meta name="X-XSS-Protection" content="1; mode=block">
