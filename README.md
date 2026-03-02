@@ -1,4 +1,4 @@
-<!-- PROFILE README — SoClosee/SoClosee — github.com/SoClosee -->
+# PROFILE README — SoClosee/SoClosee — github.com/SoClosee
 
 <div align="center">
 
@@ -98,3 +98,11 @@ Every project follows the same philosophy: **solve a real problem, ship fast, it
 *Building the future, one commit at a time.*
 
 </div>
+
+
+## Running Tests
+
+To run tests for this project, follow these steps:
+1. Ensure you have Python installed.
+2. Install dependencies by running `pip install -r requirements.txt`.
+3. Run the tests using `pytest` or `unittest`.
