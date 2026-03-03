@@ -98,3 +98,42 @@ Every project follows the same philosophy: **solve a real problem, ship fast, it
 *Building the future, one commit at a time.*
 
 </div>
+
+## Installation Instructions
+
+To install and set up SoClosee, follow these steps:
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/SoClosee/SoClosee.git
+   cd SoClosee
+   ```
+
+2. **Install Dependencies:**
+   Ensure you have Python and pip installed. Then, install the required packages:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. **Configure Environment Variables:**
+   Copy the `.env.example` file to `.env` and update the necessary variables.
+   ```bash
+   cp .env.example .env
+   # Edit .env with your configuration
+   ```
+
+4. **Run the Application:**
+   Start the application using Docker or directly from the command line.
+   - Using Docker:
+     ```bash
+     docker-compose up --build
+     ```
+   - Directly from command line:
+     ```bash
+     python app.py
+     ```
+
+5. **Access the Application:**
+   Open your browser and navigate to `http://localhost:8000` (or the port specified in your configuration).
+
+For more detailed instructions, refer to the [SoClosee documentation](https://github.com/SoClosee/SoClosee/tree/main/docs).
