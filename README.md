@@ -18,15 +18,19 @@ I build products that automate, scale, and monetize — from concept to producti
 
 ---
 
-### ⚡ What I Do
+## Project Description
+
+**SoClosee** is an open-source platform that provides a suite of automation tools and AI-powered solutions designed to help growth hackers, businesses, and entrepreneurs automate various tasks across multiple industries. Our projects focus on solving real-world problems by leveraging cutting-edge technologies such as machine learning, artificial intelligence, and cloud infrastructure.
+
+Whether you're looking to boost your online presence, streamline your operations, or enhance your marketing strategies, SoClosee offers a range of tools that can help you achieve your goals more efficiently. From autonomous AI agents to real-time server monitoring dashboards, our projects are built with the latest technologies to ensure scalability and reliability.
+
+## What I Do
 
 I design, develop, and deploy **SaaS platforms**, **AI-powered tools**, and **automation systems** across multiple industries — media, fintech, travel, and growth marketing.
 
 Every project follows the same philosophy: **solve a real problem, ship fast, iterate relentlessly.**
 
----
-
-### 🏗️ Featured Projects
+## Featured Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
@@ -36,9 +40,7 @@ Every project follows the same philosophy: **solve a real problem, ship fast, it
 | 🤖 **[StoryForge](https://github.com/SoClosee/storyforge)** | Autonomous YouTube video generation system — script to upload | Python · TTS · AI Agents · n8n |
 | 📊 **[PulseGuard](https://github.com/SoClosee/pulseguard)** | Real-time server monitoring dashboard with alerts | Node.js · WebSocket · React · VPS |
 
----
-
-### 🧰 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -81,9 +83,7 @@ Every project follows the same philosophy: **solve a real problem, ship fast, it
 
 </div>
 
----
-
-### 🌐 Ventures
+## Ventures
 
 | Venture | What it does |
 |---------|-------------|
@@ -91,10 +91,4 @@ Every project follows the same philosophy: **solve a real problem, ship fast, it
 | 🎬 **SoClip** | SaaS for AI-powered video clipping & subtitles |
 | 📰 **[PRConfidentiel](https://prconfidentiel.com)** | Premium press placement service for brands |
 
----
-
-<div align="center">
-
-*Building the future, one commit at a time.*
-
-</div>
+## Building the future, one commit at a time.
