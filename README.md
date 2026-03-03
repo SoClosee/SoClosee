@@ -1,4 +1,4 @@
-<!-- PROFILE README — SoClosee/SoClosee — github.com/SoClosee -->
+# PROFILE README — SoClosee/SoClosee — github.com/SoClosee
 
 <div align="center">
 
@@ -98,3 +98,14 @@ Every project follows the same philosophy: **solve a real problem, ship fast, it
 *Building the future, one commit at a time.*
 
 </div>
+
+### Usage Instructions
+
+To use this project, follow these steps:
+
+1. Clone the repository: `git clone https://github.com/SoClosee/SoClosee.git`
+2. Navigate to the project directory: `cd SoClosee`
+3. Install dependencies: `npm install`
+4. Run the project: `npm start`
+
+For more detailed instructions, refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file.
