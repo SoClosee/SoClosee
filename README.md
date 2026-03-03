@@ -1,4 +1,4 @@
-<!-- PROFILE README — SoClosee/SoClosee — github.com/SoClosee -->
+# SoClosee/SoClosee — github.com/SoClosee
 
 <div align="center">
 
@@ -98,3 +98,39 @@ Every project follows the same philosophy: **solve a real problem, ship fast, it
 *Building the future, one commit at a time.*
 
 </div>
+
+## Installation Instructions
+
+To install and run this project, follow these steps:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/SoClosee/SoClosee.git
+   cd SoClosee
+   ````
+2. **Install dependencies**:
+   ```bash
+   pip install -r requirements.txt
+   npm install
+   ````
+3. **Set up environment variables** (if any):
+   ```bash
+   cp .env.example .env
+   # Edit the .env file with your configuration
+   ````
+4. **Run the project**:
+   ```bash
+   docker-compose up -d
+   ````
+
+---
+
+## Contributing
+
+Contributions are welcome! Please read our [CONTRIBUTING.md](https://github.com/SoClosee/SoClosee/blob/main/CONTRIBUTING.md) for details on how to contribute.
+
+---
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/SoClosee/SoClosee/blob/main/LICENSE) file for details.
