@@ -1,3 +1,9 @@
+# Security Notice
+
+**Important:** This project involves the use of automation tools and AI, which can pose security risks if not handled properly. Always ensure that you are using these tools responsibly and within legal boundaries.
+
+---
+
 <!-- PROFILE README — SoClosee/SoClosee — github.com/SoClosee -->
 
 <div align="center">
