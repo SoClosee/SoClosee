@@ -1,4 +1,4 @@
-<!-- PROFILE README — SoClosee/SoClosee — github.com/SoClosee -->
+# PROFILE README — SoClosee/SoClosee — github.com/SoClosee
 
 <div align="center">
 
@@ -98,3 +98,39 @@ Every project follows the same philosophy: **solve a real problem, ship fast, it
 *Building the future, one commit at a time.*
 
 </div>
+
+### Usage Examples
+
+#### MiloAgent
+```python
+from miloagent import MiloAgent
+
+milo = MiloAgent()
+milo.run()
+```
+
+#### RugscoreBotTG
+```python
+from rugscorebottg import RugscoreBotTG
+
+bot = RugscoreBotTG()
+bot.scan()
+```
+
+#### SoClip
+```bash
+curl -X POST https://soclip.com/api/clip --form "video_url=http://example.com/video.mp4"
+```
+
+#### StoryForge
+```python
+from storyforge import StoryForge
+
+story = StoryForge()
+story.generate()
+```
+
+#### PulseGuard
+```bash
+curl -X GET https://pulseguard.com/api/status
+```
