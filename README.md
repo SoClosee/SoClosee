@@ -1,4 +1,4 @@
-<!-- PROFILE README — SoClosee/SoClosee — github.com/SoClosee -->
+# PROFILE README — SoClosee/SoClosee — github.com/SoClosee
 
 <div align="center">
 
@@ -98,3 +98,25 @@ Every project follows the same philosophy: **solve a real problem, ship fast, it
 *Building the future, one commit at a time.*
 
 </div>
+
+### Installation Instructions
+
+To install and set up this project, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/SoClosee/SoClosee.git
+   cd SoClosee
+   ```
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   npm install
+   ```
+3. Configure environment variables (copy `.env.example` to `.env` and modify as needed).
+4. Run the project:
+   ```bash
+   docker-compose up
+   ```
+
+---
