@@ -1,8 +1,8 @@
-<!-- PROFILE README — SoClosee/SoClosee — github.com/SoClosee -->
+# PROFILE README — SoClosee/SoClosee — github.com/SoCloseSociety
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SoClosee/SoClosee/main/assets/banner.svg" alt="SoClose — Full Stack Developer & Entrepreneur" width="100%">
+<img src="https://raw.githubusercontent.com/SoCloseSociety/SoClosee/main/assets/banner.svg" alt="SoClose — Full Stack Developer & Entrepreneur" width="100%">
 
 ### 🚀 Full Stack Developer · SaaS Builder · AI Engineer
 
@@ -98,3 +98,12 @@ Every project follows the same philosophy: **solve a real problem, ship fast, it
 *Building the future, one commit at a time.*
 
 </div>
+
+### Running Tests
+
+To run tests, execute the following commands in your project directory:
+
+```sh
+cd path/to/project
+pytest
+```
