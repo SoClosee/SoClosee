@@ -1,4 +1,4 @@
-<!-- PROFILE README — SoClosee/SoClosee — github.com/SoClosee -->
+# PROFILE README — SoClosee/SoClosee — github.com/SoClosee
 
 <div align="center">
 
@@ -98,3 +98,15 @@ Every project follows the same philosophy: **solve a real problem, ship fast, it
 *Building the future, one commit at a time.*
 
 </div>
+
+### Contributing
+
+We welcome contributions from everyone! If you have an idea for a new feature, found a bug, or want to improve the documentation, please follow these steps:
+
+1. **Fork** this repository.
+2. **Create a new branch**: `git checkout -b feature/your-feature-name`.
+3. **Make your changes** and commit them: `git commit -m 'Add some feature'`.
+4. **Push to the branch**: `git push origin feature/your-feature-name`.
+5. **Open a Pull Request** with a description of what you've done.
+
+Thank you for helping make SoClosee better!
